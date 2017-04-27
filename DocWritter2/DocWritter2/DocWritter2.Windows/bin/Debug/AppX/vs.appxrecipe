@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-T9A0469</Machine>
+    <WindowsUser>qazwq</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>ea32e350-d9bc-43be-8c7f-08ac59febf67</PackageIdentityName>
+    <PackageIdentityPublisher>CN=qazwq</PackageIdentityPublisher>
+    <IntermediateOutputPath>D:\C#workspace\DocWritter2\DocWritter2\DocWritter2.Windows\obj\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <RegisteredManifestChecksum>56C959EE36517642E1A3B6C1700E9563B6B1438118C19A7ABE26421CD995DB73</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>ea32e350-d9bc-43be-8c7f-08ac59febf67_1.0.0.0_neutral__qb27k54tnvzxa</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>ea32e350-d9bc-43be-8c7f-08ac59febf67_qb27k54tnvzxa!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>ea32e350-d9bc-43be-8c7f-08ac59febf67</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=qazwq</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\C#workspace\DocWritter2\DocWritter2\DocWritter2.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-04-26T03:32:32.598</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\C#workspace\DocWritter2\DocWritter2\DocWritter2.Windows\bin\Debug\DocWritter2.Windows.exe">
+      <PackagePath>DocWritter2.Windows.exe</PackagePath>
+      <Modified>2017-04-27T01:36:28.582</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\C#workspace\DocWritter2\DocWritter2\DocWritter2.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-07T04:11:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\C#workspace\DocWritter2\DocWritter2\DocWritter2.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-07T04:11:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\C#workspace\DocWritter2\DocWritter2\DocWritter2.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-07T04:11:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\C#workspace\DocWritter2\DocWritter2\DocWritter2.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-07T04:11:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\C#workspace\DocWritter2\DocWritter2\DocWritter2.Windows\bin\Debug\DocWritter2.Windows.xr.xml">
+      <PackagePath>DocWritter2.Windows.xr.xml</PackagePath>
+      <Modified>2017-04-26T04:37:45.095</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\C#workspace\DocWritter2\DocWritter2\DocWritter2.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2017-04-25T03:04:21.637</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\C#workspace\DocWritter2\DocWritter2\DocWritter2.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2017-04-26T19:04:15.219</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\C#workspace\DocWritter2\DocWritter2\DocWritter2.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-04-26T03:32:32.544</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

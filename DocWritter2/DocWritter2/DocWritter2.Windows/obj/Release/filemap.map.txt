@@ -1,0 +1,14 @@
+﻿[ResourceMetadata]
+"ResourceDimensions"		"scale-100"
+"ResourceDimensions"		"language-zh-hans-cn"
+
+[Files]
+"D:\C#workspace\DocWritter2\DocWritter2\DocWritter2.Windows\obj\Release\filemap.pri"			"resources.pri"
+"D:\C#workspace\DocWritter2\DocWritter2\DocWritter2.Windows\obj\Release\PackageLayout\MainPage.xbf"			"MainPage.xbf"
+"D:\C#workspace\DocWritter2\DocWritter2\DocWritter2.Windows\obj\Release\PackageLayout\DocWritter2.Windows.xr.xml"			"DocWritter2.Windows.xr.xml"
+"D:\C#workspace\DocWritter2\DocWritter2\DocWritter2.Windows\obj\Release\PackageLayout\DocWritter2.Windows.exe"			"DocWritter2.Windows.exe"
+"D:\C#workspace\DocWritter2\DocWritter2\DocWritter2.Windows\obj\Release\PackageLayout\App.xbf"			"App.xbf"
+"D:\C#workspace\DocWritter2\DocWritter2\DocWritter2.Windows\obj\Release\PackageLayout\Assets\StoreLogo.scale-100.png"			"Assets\StoreLogo.scale-100.png"
+"D:\C#workspace\DocWritter2\DocWritter2\DocWritter2.Windows\obj\Release\PackageLayout\Assets\SplashScreen.scale-100.png"			"Assets\SplashScreen.scale-100.png"
+"D:\C#workspace\DocWritter2\DocWritter2\DocWritter2.Windows\obj\Release\PackageLayout\Assets\SmallLogo.scale-100.png"			"Assets\SmallLogo.scale-100.png"
+"D:\C#workspace\DocWritter2\DocWritter2\DocWritter2.Windows\obj\Release\PackageLayout\Assets\Logo.scale-100.png"			"Assets\Logo.scale-100.png"

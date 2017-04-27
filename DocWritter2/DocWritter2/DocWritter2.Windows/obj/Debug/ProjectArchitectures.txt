@@ -1,0 +1,1 @@
+D:\C#workspace\DocWritter2\DocWritter2\DocWritter2.Windows\DocWritter2.Windows.csproj;neutral
